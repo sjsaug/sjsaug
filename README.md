@@ -1,9 +1,7 @@
 ## About
-Hi, I’m August. I'm currently finishing my second year studying Computer Science in Waterloo, Ontario. 
+Hi, I’m August, a second year CS student. I currently serve as President @ Laurier Cybersecurity Club. 
 
-I serve as President @ Laurier Cybersecurity Club. Most of my industry experience is in quant & qual work with AI.
-
-In my free time, I enjoy attending hackathons and participating in LLM-centered research.
+Most of my industry experience is in quant & qual with AI. I enjoy attending hackathons and participating in LLM-centered research.
 
 ### Contact
 
