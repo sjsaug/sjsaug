@@ -1,7 +1,9 @@
 ## About
-Hi, I’m August, a second year CS student. I currently serve as President @ Laurier Cybersecurity Club. 
+Hi, I'm August, a third year Computer Science student at WLU and President at LCC.
 
-Most of my industry experience is in quant & qual with AI. I enjoy attending hackathons and participating in LLM-centered research.
+I have experience with LLMs in both industry (quant and qual) and academia (research).
+
+Some of my interests are in literature, mechanical keyboards, SFF PCs, and 3D printing.
 
 ### Contact
 
@@ -12,4 +14,4 @@ Feel free to check out my [website](http://sjsaug.com).
 
 ## 
 
-Last edited __02/28/2025__
+Last edited __08/29/2025__
