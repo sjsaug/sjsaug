@@ -1,17 +1,14 @@
 ## About
-Hi, I'm August, a third year Computer Science student at WLU and President at LCC.
+Hi, I'm August, a third year CS student at WLU, researcher at DataMavericks, and President at [LCC](https://lauriercybersec.com).
+<br/>I work primarily with Language Models. My current research focuses on Multi-Stakeholder Policy Coordination in MMS using AI agents.
 
-I have experience with LLMs in both industry (quant and qual) and academia (research).
-
-Some of my interests are in literature, mechanical keyboards, SFF PCs, and 3D printing.
+Learn more about me [here](http://sjsaug.com).
 
 ### Contact
 
-You can reach me at august@sjsaug.com
-
-Feel free to check out my [website](http://sjsaug.com).
+august@sjsaug.com
 
 
 ## 
 
-Last edited __08/29/2025__
+Updated __09/24/2025__
