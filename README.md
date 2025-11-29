@@ -11,6 +11,8 @@ Learn more about me [here](http://sjsaug.com).
 
 august@sjsaug.com
 
+[LinkedIn](https://linkedin.com/in/august-roy-mclaughlin/)
+
 ##
 
 Updated __11/29/2025__
