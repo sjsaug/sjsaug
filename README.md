@@ -1,7 +1,7 @@
 ## About
 Hi, I'm August. 
 
-I am currently interning as a Quantitative Research Intern, building [Læra Labs](https://laeralabs.com), running [LCC](https://lauriercybersec.com), and studying CS + researching LLMs at [WLU](https://wlu.ca).
+I am currently interning as a Quantitative Research Intern, building [Læra Labs](https://laeralabs.com), running [LCC](https://lauriercybersec.com), researching LLMs at SPIN and studying CS at [WLU](https://wlu.ca).
 
 Learn more about me [here](http://sjsaug.com).
 
