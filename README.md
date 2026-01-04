@@ -11,8 +11,6 @@ You can learn more [here](http://sjsaug.com).
 
 august@sjsaug.com
 
-[LinkedIn](https://linkedin.com) # nice job
-
 ##
 
 Updated __01/03/2026__
