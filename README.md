@@ -5,7 +5,6 @@ I am currently an Intern at [iNAGO](https://inago.com), building [Læra Labs](ht
 
 You can learn more [here](http://sjsaug.com).
 
-
 ## 
 ### Contact
 
